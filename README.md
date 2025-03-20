@@ -34,9 +34,6 @@ int main() {
     return 0;
 }
 
-## Code Structure 2
-
-```cpp
 #include <iostream>
 using namespace std;
 
